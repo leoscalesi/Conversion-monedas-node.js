@@ -32,6 +32,8 @@ Gracias a inquirer vamos a poder desplazarnos por dicho menu tanto con los numer
 
 Si ingresamos a la opcion 1, podremos acceder a un listado con los codigos de moneda, con su correspondiente descripcion.
 
+Para poder acceder a este listado, el endpoint base es:  http://api.exchangeratesapi.io/v1/symbols
+
 Aqui un ejemplo:
 
   AED: 'United Arab Emirates Dirham',  
