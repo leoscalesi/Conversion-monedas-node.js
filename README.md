@@ -18,9 +18,6 @@ breve.
 
 Se nos presentara un menu con las siguientes opciones:
 
-==========================
-  Cotizacion de monedas  
-==========================
 
 ? ¿Qué desea hacer? (Use arrow keys)
 > 1. Listar codigos moneda
