@@ -1,0 +1,9 @@
+https://exchangeratesapi.io/documentation/
+
+
+usuario: leoscalesi@hotmail.com
+
+cont: leo1982
+
+
+apikey: bad25c3c4fe16c58675fdeb25c96fc06
