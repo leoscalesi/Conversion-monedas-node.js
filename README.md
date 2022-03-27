@@ -71,6 +71,16 @@ http://api.exchangeratesapi.io/v1/latest
 
 en la cual obtenemos como key el codigo de la moneda y como value su cotizacion en base al euro.
 
+Debido a que la suscripcion gratuita no nos permite acceder al endpoint en la cual calcula cotizaciones, debemos realizar la
+funcion para dicha conversion:
+
+Extrayendo del objeto que obtenemos desde la API las cotizaciones correspondientes a los codigos de moneda que ingreso el usuario, la funcion es la siguiente:
+
+
+
+
+
+
 
 
 
