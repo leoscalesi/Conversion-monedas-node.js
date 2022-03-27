@@ -27,6 +27,7 @@ Se nos presentara un menu con las siguientes opciones:
   
  0. Salir
 
+
 Gracias a inquirer vamos a poder desplazarnos por dicho menu tanto con los numeros, asi como tambien con las teclas abajo y arriba. Si ingresamos un numero fuera de esa lista no podremos avanzar, hasta que ingresemos un numero valido.
 
 Si ingresamos a la opcion 1, podremos acceder a un listado con los codigos de moneda, con su correspondiente descripcion.
@@ -34,10 +35,15 @@ Si ingresamos a la opcion 1, podremos acceder a un listado con los codigos de mo
 Aqui un ejemplo:
 
   AED: 'United Arab Emirates Dirham',  
+  
   AFN: 'Afghan Afghani',
+  
   ALL: 'Albanian Lek',
+  
   AMD: 'Armenian Dram',
+  
   ANG: 'Netherlands Antillean Guilder',
+  
   AOA: 'Angolan Kwanza',
   
   
