@@ -20,8 +20,11 @@ Se nos presentara un menu con las siguientes opciones:
 
 
 ? ¿Qué desea hacer? (Use arrow keys)
+
 > 1. Listar codigos moneda
+  
   2. Cotizar
+  
   0. Salir
 
 Gracias a inquirer vamos a poder desplazarnos por dicho menu tanto con los numeros, asi como tambien con las teclas abajo y arriba. Si ingresamos un numero fuera de esa lista no podremos avanzar, hasta que ingresemos un numero valido.
