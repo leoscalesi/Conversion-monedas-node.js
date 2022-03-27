@@ -78,6 +78,23 @@ Extrayendo del objeto que obtenemos desde la API las cotizaciones correspondient
 
 
 
+async calcularConversion (cotizacionInicial,cantidad,cotizacionFinal){
+
+        //Las cotizaciones que da la API usan como base el euro
+
+        let euroFinal = cantidad/cotizacionInicial;
+
+        let conversion = euroFinal*cotizacionFinal;
+
+        return conversion;
+
+}
+
+
+De esta forma, se nos mostrara el mensaje con la conversion realizada.
+
+
+
 
 
 
