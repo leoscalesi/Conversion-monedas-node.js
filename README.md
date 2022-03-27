@@ -47,15 +47,19 @@ Aqui un ejemplo:
   AOA: 'Angolan Kwanza',
   
   
+
 Conociendo los codigos, podremos ir a la opcion 2 para Cotizar, es decir realizar la conversion de una moneda a otra.
 
 Se nos pedira ingresar los codigos de moneda, y la cantidad a convertir, como vemos a continuacion:
 
 
-? ¿Qué desea hacer? 2. Cotizar       
-? Ingrese codigo de moneda inicial:  ars
-? Ingrese cantidad a convertir:  300     
-? Ingrese codigo de moneda a convertir:  usd
+¿Qué desea hacer? 2. Cotizar       
+
+Ingrese codigo de moneda inicial:  ars
+
+Ingrese cantidad a convertir:  300     
+
+Ingrese codigo de moneda a convertir:  usd
 
 
 
