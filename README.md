@@ -42,9 +42,6 @@ Conociendo los codigos, podremos ir a la opcion 2 para Cotizar, es decir realiza
 
 Se nos pedira ingresar los codigos de moneda, y la cantidad a convertir, como vemos a continuacion:
 
-==========================
-  Cotizacion de monedas  
-==========================
 
 ? ¿Qué desea hacer? 2. Cotizar       
 ? Ingrese codigo de moneda inicial:  ars
