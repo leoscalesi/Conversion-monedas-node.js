@@ -5,7 +5,7 @@ en la cual podremos realizar conversiones de monedas.
 
 Los paquetes utilizados en este caso son: 
 
-'colors' para darle estilo a la aplicacion
+'colors' para darle estilo a la aplicacion.
 
 'inquirer' para trabajar con un menu interactivo y facilitar validaciones.
 
@@ -63,6 +63,15 @@ Ingrese codigo de moneda inicial:  ars
 Ingrese cantidad a convertir:  300     
 
 Ingrese codigo de moneda a convertir:  usd
+
+
+Para poder acceder a las cotizaciones en base al Euro que nos suministra la API, debemos usar el siguiente endpoint base:
+
+http://api.exchangeratesapi.io/v1/latest
+
+en la cual obtenemos como key el codigo de la moneda y como value su cotizacion en base al euro.
+
+
 
 
 
